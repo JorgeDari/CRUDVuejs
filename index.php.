@@ -7,6 +7,6 @@ else
     echo $variable;
 }
 
-
+ $post = $_POST[$variable];
 
 } 
