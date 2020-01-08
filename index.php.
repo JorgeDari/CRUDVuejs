@@ -1,2 +1,12 @@
 $variable = 'jorge';
 echo $variable ;
+if empty($variable) {
+    echo ("ewsta vacio")
+else
+{
+    echo $variable;
+}
+
+
+
+} 
