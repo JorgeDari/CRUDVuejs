@@ -8,5 +8,5 @@ else
 }
 
  $post = $_POST[$variable];
-
+  echo ("estamos probando el git");
 } 
